@@ -12,7 +12,7 @@ I connect critical infrastructure (Linux servers, Docker, Cisco networking, AWS)
 |---|---|---|
 | [switch_bot](https://github.com/eduardo-zepeda-j/switch_bot) | Real-time multi-camera production orchestrator with visual inference; drives ATEM switchers and OBS | Python, MediaPipe, PyQt6, AWS Bedrock |
 | [s3uploader](https://github.com/eduardo-zepeda-j/s3uploader) | Desktop file explorer for Amazon S3 with bulk transfers and keyring-secured credentials | Python, boto3, CustomTkinter |
-| [qr_app](https://github.com/eduardo-zepeda-j/qr_app) · [demo](https://eduardo-zepeda-j.github.io/qr_creator/) | QR codes linking operators to permanent machine documentation synced from OneDrive | Python, rclone, HTML/CSS |
+| [qr_app](https://github.com/eduardo-zepeda-j/qr_app) · [demo](https://eduardo-zepeda-j.github.io/demo/qr/) | QR codes linking operators to permanent machine documentation synced from OneDrive | Python, rclone, HTML/CSS |
 | [SIMULADOR_DISCOS](https://github.com/eduardo-zepeda-j/SIMULADOR_DISCOS) | Disk simulator with MBR partitions and EXT2/EXT3 file systems | C++ |
 | [PIXEL_ART](https://github.com/eduardo-zepeda-j/PIXEL_ART) | Pixel art generator on hand-written sparse matrices and linked lists | Go, Graphviz |
 
