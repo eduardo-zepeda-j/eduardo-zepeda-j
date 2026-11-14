@@ -97,17 +97,6 @@ languages: [Español, English]
   <img src="https://img.shields.io/badge/OBS-302E31?style=flat-square&logo=obsstudio&logoColor=white"/>
 </p>
 
-### 📊 Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=eduardo-zepeda-j&hide_border=true&theme=tokyonight" alt="GitHub streak"/>
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardo-zepeda-j/eduardo-zepeda-j/output/github-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/eduardo-zepeda-j/eduardo-zepeda-j/output/github-snake.svg" width="100%" alt="Contribution snake" />
-</picture>
-
 ---
 
 <details>
